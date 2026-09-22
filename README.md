@@ -37,5 +37,3 @@ Predicts house price per unit area using **Linear Regression** on the Real Estat
 3. Open `REAL_ESTATE.ipynb` in Jupyter or Google Colab
 4. Run all cells
 
-## Author
-Azizullah Asad — BS Data Science, DUET Karachi
